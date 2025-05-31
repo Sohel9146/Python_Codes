@@ -93,16 +93,19 @@ print("\n")
 Alphabets = ["A","B","C","D"]
 print(f"Orignal List : {Alphabets}")
 
+#Getting First 2 Items From List
 print("--"*25)
 print("Getting First 2 Items : ")
 print(Alphabets[:2])
 print("--"*25)
 
+#Getting MIddle of 2 Items from List
 print("--"*25)
 print("Getting Middle of 2 Items : ")
 print(Alphabets[1:3])
 print("--"*25)
 
+#Getting Last 2 Items from List
 print("--"*25)
 print("Getting Last 2 Items : ")
 print(Alphabets[-2:])
@@ -115,16 +118,19 @@ print("\n")
 Marks = [20,10,40,50]
 print(f"Orignal List : {Marks}")
 
+#Getting Min Marks from list 
 print("--"*25)
 print("Getting Min Marks : ")
 print(min(Marks))
 print("--"*25)
 
+#Getting Max Marks From list
 print("--"*25)
 print("Getting Max Marks : ")
 print(max(Marks))
 print("--"*25)
 
+#Getting Sum of Marks from list
 print("--"*25)
 print("Getting Sum of Marks : ")
 print(sum(Marks))
