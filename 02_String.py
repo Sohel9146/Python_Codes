@@ -16,6 +16,6 @@ print(name_1.split())
 
 print(name_3.upper())
 
-printname_4.lower())
+print(name_4.lower())
 
 
