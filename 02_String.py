@@ -19,6 +19,6 @@ print(name_3.upper())
 
 print(name_4.lower())
 
-print(name_5.title())
+print(name_5.title()
 
 
