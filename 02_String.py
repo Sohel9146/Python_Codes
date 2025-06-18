@@ -4,7 +4,7 @@ name_2 = "Sohel Shaikh"
 name_3 = "irfan shaikh"
 name_4 = "ARSHAD SHAIKH"
 name_5 = "Wasim Shaikh"
-name_6 = "shuaib shaikh
+name_6 = "shuaib shaikh"
 
 # name_1.upper()
 # name_1.lower()
